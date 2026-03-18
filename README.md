@@ -79,7 +79,3 @@ The script creates a note named like `Mar 2026` and moves it to `LabNote/MileSto
 
 - The daily note script references `![[Scheduler#TODO]]`. Remove or adapt that line if your vault does not contain a `Scheduler` note.
 - The current milestone folder name is `MileStones` because that is what the script expects. You can rename it, but then update the path inside `Scripts/Milestone Script.md`.
-
-## Repository purpose
-
-This repository is meant to share the template set itself, not a full Obsidian vault. Keeping the repo small makes it easier to reuse in different projects and lab notebooks.
